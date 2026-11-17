@@ -49,12 +49,12 @@ se the keyboard to manipulate and transform the currently highlighted map. Press
 | **`Space`** | Lock seed drawing / Add a new map copy |
 | **`Tab`** / **`Shift + Tab`** | Cycle forward / backward through active maps |
 | **`Arrow Keys`** | Move selected map |
-| **`Cmd` (or `Ctrl`) + `Left / Right`** | Rotate selected map |
-| **`Cmd` (or `Ctrl`) + `Up / Down`** | Uniformly scale selected map |
-| **`Option` (or `Alt`) + `Arrows`** | Stretch or squash X / Y scale independently |
-| **`Shift` + `Arrows`** | Shear horizontally (X) or vertically (Y) |
-| **`Shift + Option` + `Arrows`** | Quadratic bend (`x²` and `y²` non-linear curvature) |
-| **`F`** / **`G`** | Flip selected map horizontally / vertically |
+| **`Cmd` (or `Ctrl`) + `Left / Right`** | Rotate  |
+| **`Cmd` (or `Ctrl`) + `Up / Down`** | Bigger / Smaller |
+| **`Option` (or `Alt`) + `Arrows`** | Stretch or squash  |
+| **`Shift` + `Arrows`** | Shear horizontally or vertically |
+| **`Shift + Option` + `Arrows`** | Bend (`x²` and `y²` non-linear curvature) |
+| **`F`** / **`G`** | Flip horizontally / vertically |
 
 ### 3. Rendering, Framing & Saving
 * **Probabilities:** Switch between **Equal** (`1/N` chance per map) and **Weighted** (proportional to map area).
